@@ -6,8 +6,14 @@ import java.util.Date;
 public class Select extends Object {
 
 	
-	public String Date()
+	public Date getdate()
 	{
-		return "newDate";
+		return new Date();
 	}
+	
+	public void m1()
+	{
+		System.out.println("0-param constructor");
+	}
+	
 }
