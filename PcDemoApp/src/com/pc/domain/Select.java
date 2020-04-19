@@ -13,7 +13,7 @@ public class Select extends Object {
 	
 	public void m1()
 	{
-		System.out.println("0-param constructor");
+		System.out.println("0-param constructor:::::123456");
 	}
 	
 }
